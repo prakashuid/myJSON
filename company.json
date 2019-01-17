@@ -1,0 +1,14 @@
+[
+    {
+      "CompanyName":"S&P500",
+      "CompanyCount": 23
+    },
+    {
+      "CompanyName":"DOW30",
+      "CompanyCount": 23
+    },
+    {
+      "CompanyName":"Nasdoq100",
+      "CompanyCount": 13
+    }
+]
